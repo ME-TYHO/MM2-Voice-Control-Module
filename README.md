@@ -14,9 +14,12 @@ This needs to be included as MM2 module.
 
 - [ ] Would be cool if we can pull maps on voice control with maps api.
 
+
 - [ ] Maybe some mic debug.
 
 - [ ] And the most important, fix those messy code (made by a n00b xD)
+
+- [ ] Add some security/failure returns
 
 - [ ] Some creativity!
 
