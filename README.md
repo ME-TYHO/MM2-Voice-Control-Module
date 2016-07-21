@@ -6,6 +6,12 @@ First of all i am not a programmer. I made this from snippets, tutorials, other 
 ###What i have done:
 Made a stand alone module that can do basic answers, get flickr tags/images, turn my monitor on and off.
 
+- Say hello: responds with text "Hello there sexy!"
+- Show me *tag: responds with image tags from flickr
+- Go to sleep: Turns monitor in sleep
+- Wake up: Turns monitor back on
+- Go Home: reset everything
+
 ###Things that has to be done:**
 - [ ] This module is still stand alone. You can install it by CD to the folder and then npm install and npm start.
 This needs to be included as MM2 module.
